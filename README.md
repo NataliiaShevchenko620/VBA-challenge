@@ -3,6 +3,8 @@
 ## Overview
 The VBA script analyzes stock market data stored in multiple worksheets within an Excel workbook. It performs calculations such as yearly change, percentage change, and total stock volume for each stock ticker. Additionally, it identifies the stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume. It iterates over all sheets in the Excel.
 
+![StockStats2020](Screenshots/StockStats2020.jpg)
+
 ## Code Explanation
 ### Variables
 * ws: Worksheet variable used to loop through each sheet in the workbook.
